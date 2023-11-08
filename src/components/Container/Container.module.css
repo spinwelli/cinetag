@@ -1,0 +1,5 @@
+.container section {
+    /*margin: 0em 20em; */
+    justify-content: space-between; 
+    text-align: center;
+}
